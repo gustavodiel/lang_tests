@@ -1,6 +1,8 @@
 # Testing some programming languages :D
 
-### [Crystal](https://crystal-lang.org/)
+### [Crystal](./crystal)
+* Hello World
+* Client-Server
 
 ### [Elixir](https://elixir-lang.org/)
 
