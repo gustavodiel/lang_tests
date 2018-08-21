@@ -1,1 +1,1 @@
-# [Pony](https://www.ponylang.org/)
+# [Pony Lang](https://ponylang.org/)

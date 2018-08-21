@@ -1,1 +1,1 @@
-# [Rust](https://www.rust-lang.org/en-US/)
+# [Rust](https://rust-lang.org/)

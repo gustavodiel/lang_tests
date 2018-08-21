@@ -1,1 +1,1 @@
-# [Go](https://golang.org/)
+# [Go Lang](https://golang.org/)

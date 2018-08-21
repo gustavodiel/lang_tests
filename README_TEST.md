@@ -1,8 +1,16 @@
 # Testing some programming languages :D
 
-### [Rust](rust/README.md)
-* [Hello World](rust/hello_world)
-* [Client-Server](rust/client_server)
+### [Crystal](crystal/README.md)
+* [Hello World](crystal/hello_world)
+* [Client-Server](crystal/client_server)
+
+### [Exixir](elixir/README.md)
+* [Hello World](elixir/hello_world)
+* [Client-Server](elixir/client_server)
+
+### [Go Lang](go/README.md)
+* [Hello World](go/hello_world)
+* [Client-Server](go/client_server)
 
 ### [Haskell](haskell/README.md)
 * [Hello World](haskell/hello_world)
@@ -16,19 +24,11 @@
 * [Hello World](lua/hello_world)
 * [Client-Server](lua/client_server)
 
-### [Crystal](crystal/README.md)
-* [Hello World](crystal/hello_world)
-* [Client-Server](crystal/client_server)
-
-### [Pony](pony/README.md)
+### [Pony Lang](pony/README.md)
 * [Hello World](pony/hello_world)
 * [Client-Server](pony/client_server)
 
-### [Go](go/README.md)
-* [Hello World](go/hello_world)
-* [Client-Server](go/client_server)
-
-### [Elixir](elixir/README.md)
-* [Hello World](elixir/hello_world)
-* [Client-Server](elixir/client_server)
+### [Rust](rust/README.md)
+* [Hello World](rust/hello_world)
+* [Client-Server](rust/client_server)
 

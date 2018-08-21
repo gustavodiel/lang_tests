@@ -1,1 +1,1 @@
-# [Lua](https://www.lua.org/)
+# [Lua](https://lua.org/)

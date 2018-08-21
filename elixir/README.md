@@ -1,1 +1,1 @@
-# [Elixir](https://elixir-lang.org/)
+# [Exixir](https://elixir-lang.org/)
