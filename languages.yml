@@ -35,6 +35,11 @@ languages:
     link: "https://ponylang.org/"
   }
   - {
+    name: "Python",
+    folder: "python",
+    link: "https://www.python.org/"
+  }
+  - {
     name: "Rust",
     folder: "rust",
     link: "https://rust-lang.org/"

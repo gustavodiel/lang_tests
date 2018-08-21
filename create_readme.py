@@ -30,7 +30,7 @@ def process_files():
         except yaml.YAMLError as err:
             print(err)
 
-    with open('README_TEST.md', 'w') as file:
+    with open('README.md', 'w') as file:
         file.write('# Testing some programming languages :D\n\n')
         for lang_json in languages:
 
