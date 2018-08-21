@@ -37,12 +37,7 @@ def process_files():
             name = lang_json['name']
             folder_name = lang_json['folder']
             link = lang_json['link']
-
-            # Create directory
-            if not os.path.exists(folder_name):
-                os.makedirs(folder_name)
-                with open('{}/README.md'.format(folder_name), 'w') as lang_file:
-                    lang_file.write('# [{}]({})\n'.format(name, link))
+            extension = lang_json['extension']
 
             file.write('### [{}]({}/README.md)\n'.format(name, folder_name))
             for problem in problems:
@@ -50,7 +45,12 @@ def process_files():
                 file.write('* [{}]({})\n'.format(problem, path))
                 if not os.path.exists(path):
                     os.makedirs(path)
+                with open('{}/{}.{}'.format(path, sanitize(problem), extension), 'w') as prog_file:
+                    prog_file.write('\n'.format(name, link))
             file.write('\n')
+
+            with open('{}/README.md'.format(folder_name), 'w') as lang_file:
+                lang_file.write('# [{}]({})\n'.format(name, link))
 
 
 if __name__ == '__main__':

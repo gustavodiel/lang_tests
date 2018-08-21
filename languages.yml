@@ -2,45 +2,54 @@ languages:
   - {
     name: "Crystal",
     folder: "crystal",
-    link: "https://crystal-lang.org/"
+    link: "https://crystal-lang.org/",
+    extension: "cr"
   }
   - {
     name: "Exixir",
     folder: "elixir",
-    link: "https://elixir-lang.org/"
+    link: "https://elixir-lang.org/",
+    extension: "ex"
   }
   - {
     name: "Go Lang",
     folder: "go",
-    link: "https://golang.org/"
+    link: "https://golang.org/",
+    extension: "go"
   }
   - {
     name: "Haskell",
     folder: "haskell",
-    link: "https://www.haskell.org/"
+    link: "https://www.haskell.org/",
+    extension: "hs"
   }
   - {
     name: "Julia",
     folder: "julia",
-    link: "https://julialang.org/"
+    link: "https://julialang.org/",
+    extension: "jl"
   }
   - {
     name: "Lua",
     folder: "lua",
-    link: "https://lua.org/"
+    link: "https://lua.org/",
+    extension: "lua"
   }
   - {
     name: "Pony Lang",
     folder: "pony",
-    link: "https://ponylang.org/"
+    link: "https://ponylang.org/",
+    extension: "pony"
   }
   - {
     name: "Python",
     folder: "python",
-    link: "https://www.python.org/"
+    link: "https://www.python.org/",
+    extension: "py"
   }
   - {
     name: "Rust",
     folder: "rust",
-    link: "https://rust-lang.org/"
+    link: "https://rust-lang.org/",
+    extension: "rs"
   }
