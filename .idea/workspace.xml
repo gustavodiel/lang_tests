@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_readme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crystal/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elixir/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haskell/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/languages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/languages.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pony/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rust/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +12,7 @@
     <session id="-1703068351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.57" value="1" />
@@ -98,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -153,39 +140,6 @@
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="crystal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="crystal" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="lua" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="lua" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -226,9 +180,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -242,7 +195,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33543637" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33543637" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="LuaJ" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -326,7 +279,7 @@
     <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
