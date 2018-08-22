@@ -53,3 +53,9 @@ languages:
     link: "https://rust-lang.org/",
     extension: "rs"
   }
+  - {
+    name: "Ruby",
+    folder: "ruby",
+    link: "https://ruby-lang.org/",
+    extension: "rb"
+  }
