@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" beforeDir="false" afterPath="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/hello_world/hello_world.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/hello_world/hello_world.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,7 @@
         <counts>
           <entry key="cr" value="63" />
           <entry key="dummy" value="13" />
+          <entry key="go" value="2" />
           <entry key="hs" value="1" />
           <entry key="lua" value="22" />
           <entry key="md" value="151" />
@@ -41,7 +42,7 @@
           <entry key="Haskell" value="1" />
           <entry key="Lua" value="22" />
           <entry key="Markdown" value="151" />
-          <entry key="PLAIN_TEXT" value="77" />
+          <entry key="PLAIN_TEXT" value="79" />
           <entry key="Python" value="2154" />
           <entry key="YAML" value="534" />
         </counts>
@@ -50,6 +51,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cr" value="1" />
+          <entry key="go" value="1" />
           <entry key="hs" value="1" />
           <entry key="jl" value="1" />
           <entry key="lua" value="1" />
@@ -65,7 +67,7 @@
         <counts>
           <entry key="Haskell" value="1" />
           <entry key="Markdown" value="9" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="Python" value="4" />
           <entry key="YAML" value="5" />
         </counts>
@@ -122,11 +124,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/haskell/hello_world/hello_world.hs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/go/hello_world/hello_world.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -182,6 +193,7 @@
         <option value="$PROJECT_DIR$/lua/hello_world/hello_world.lua" />
         <option value="$PROJECT_DIR$/julia/hello_world/hello_world.jl" />
         <option value="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" />
+        <option value="$PROJECT_DIR$/go/hello_world/hello_world.go" />
       </list>
     </option>
   </component>
@@ -211,12 +223,12 @@
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="haskell" type="462c0819:PsiDirectoryNode" />
+              <item name="go" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="haskell" type="462c0819:PsiDirectoryNode" />
+              <item name="go" type="462c0819:PsiDirectoryNode" />
               <item name="hello_world" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -408,6 +420,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/hello_world/hello_world.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
