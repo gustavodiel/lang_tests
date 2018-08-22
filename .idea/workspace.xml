@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/julia/hello_world/hello_world.jl" beforeDir="false" afterPath="$PROJECT_DIR$/julia/hello_world/hello_world.jl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" beforeDir="false" afterPath="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,7 @@
         <counts>
           <entry key="cr" value="63" />
           <entry key="dummy" value="13" />
+          <entry key="hs" value="1" />
           <entry key="lua" value="22" />
           <entry key="md" value="151" />
           <entry key="py" value="2154" />
@@ -38,6 +38,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Haskell" value="1" />
           <entry key="Lua" value="22" />
           <entry key="Markdown" value="151" />
           <entry key="PLAIN_TEXT" value="77" />
@@ -49,6 +50,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cr" value="1" />
+          <entry key="hs" value="1" />
           <entry key="jl" value="1" />
           <entry key="lua" value="1" />
           <entry key="md" value="9" />
@@ -61,6 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Haskell" value="1" />
           <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Python" value="4" />
@@ -84,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/python/bubble_sort/bubble_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="e#20#41#0" expanded="true" />
               </folding>
@@ -96,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/pony/hello_world/hello_world.pony">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -110,11 +113,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/julia/hello_world/hello_world.jl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haskell/hello_world/hello_world.hs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -132,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/rust/hello_world/hello_world.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#11#12#0" expanded="true" />
                 <element signature="e#43#44#0" expanded="true" />
@@ -169,6 +181,7 @@
         <option value="$PROJECT_DIR$/pony/hello_world/hello_world.pony" />
         <option value="$PROJECT_DIR$/lua/hello_world/hello_world.lua" />
         <option value="$PROJECT_DIR$/julia/hello_world/hello_world.jl" />
+        <option value="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" />
       </list>
     </option>
   </component>
@@ -198,12 +211,12 @@
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="julia" type="462c0819:PsiDirectoryNode" />
+              <item name="haskell" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="julia" type="462c0819:PsiDirectoryNode" />
+              <item name="haskell" type="462c0819:PsiDirectoryNode" />
               <item name="hello_world" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -345,7 +358,7 @@
     <entry file="file://$PROJECT_DIR$/python/bubble_sort/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="e#20#41#0" expanded="true" />
           </folding>
@@ -355,7 +368,7 @@
     <entry file="file://$PROJECT_DIR$/pony/hello_world/hello_world.pony">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -376,7 +389,7 @@
     <entry file="file://$PROJECT_DIR$/rust/hello_world/hello_world.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#11#12#0" expanded="true" />
             <element signature="e#43#44#0" expanded="true" />
@@ -386,8 +399,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/julia/hello_world/hello_world.jl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haskell/hello_world/hello_world.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
