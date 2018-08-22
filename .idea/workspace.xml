@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" beforeDir="false" afterPath="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" beforeDir="false" afterPath="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/bubble_sort/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/bubble_sort/bubble_sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
           <entry key="hs" value="1" />
           <entry key="lua" value="22" />
           <entry key="md" value="151" />
-          <entry key="py" value="2154" />
+          <entry key="py" value="2561" />
           <entry key="rs" value="1" />
           <entry key="yml" value="534" />
         </counts>
@@ -46,7 +44,7 @@
           <entry key="Lua" value="22" />
           <entry key="Markdown" value="151" />
           <entry key="PLAIN_TEXT" value="80" />
-          <entry key="Python" value="2154" />
+          <entry key="Python" value="2561" />
           <entry key="YAML" value="534" />
         </counts>
       </usages-collector>
@@ -89,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/bubble_sort/bubble_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="1422">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
               <folding>
                 <element signature="e#20#41#0" expanded="true" />
               </folding>
@@ -155,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -200,7 +198,6 @@
         <option value="$PROJECT_DIR$/create_readme.py" />
         <option value="$PROJECT_DIR$/rust/hello_world/hello_world.rs" />
         <option value="$PROJECT_DIR$/python/hello_world/hello_world.py" />
-        <option value="$PROJECT_DIR$/python/bubble_sort/bubble_sort.py" />
         <option value="$PROJECT_DIR$/pony/hello_world/hello_world.pony" />
         <option value="$PROJECT_DIR$/lua/hello_world/hello_world.lua" />
         <option value="$PROJECT_DIR$/julia/hello_world/hello_world.jl" />
@@ -208,6 +205,7 @@
         <option value="$PROJECT_DIR$/go/hello_world/hello_world.go" />
         <option value="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" />
         <option value="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" />
+        <option value="$PROJECT_DIR$/python/bubble_sort/bubble_sort.py" />
       </list>
     </option>
   </component>
@@ -297,7 +295,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18890075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,16 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/bubble_sort/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#20#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pony/hello_world/hello_world.pony">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -457,8 +444,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/bubble_sort/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#20#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

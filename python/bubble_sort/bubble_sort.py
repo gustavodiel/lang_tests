@@ -2,6 +2,7 @@
 
 from time import time
 import random
+import argparse
 
 
 def bubble_sort(array):
@@ -14,19 +15,49 @@ def bubble_sort(array):
 
 
 def generate_ordered_array(number):
-    return [i for i in range(number)]
+    total = 0.0
+    array = []
+    for i in range(number):
+        print('Generating ordered array: {0:.1f}%\r'.format(100 * total/number), end='', flush=True)
+        array.append(i)
+        total += 1
+
+    print("")
+    return array
 
 
 def generate_reversed_array(number):
-    return [number - i for i in range(number)]
+    total = 0.0
+    array = []
+    for i in range(number):
+        print('Generating reversed array: {0:.1f}%\r'.format(100 * total/number), end='', flush=True)
+        array.append(number - i)
+        total += 1
+
+    print("")
+    return array
 
 
 def generate_random_array(number):
-    return [random.randint(0, number) for i in range(number)]
+    total = 0.0
+    array = []
+    for i in range(number):
+        print('Generating random array: {0:.1f}%\r'.format(100 * total/number), end='', flush=True)
+        array.append(random.randint(0, number))
+        total += 1
+
+    print("")
+    return array
 
 
 if __name__ == '__main__':
-    numbers_to_order = 5000
+
+    parser = argparse.ArgumentParser('Test Bubble Sort on several array configurations')
+    parser.add_argument('size', type=int, help='Size of each of the arrays')
+
+    args = parser.parse_args()
+
+    numbers_to_order = args.size
 
     ordered_array = generate_ordered_array(numbers_to_order)
     reversed_array = generate_reversed_array(numbers_to_order)
