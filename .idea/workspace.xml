@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87fe6ab0-d2e6-4757-9f9c-a5ab32ec10b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/go/hello_world/hello_world.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/hello_world/hello_world.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" beforeDir="false" afterPath="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" beforeDir="false" afterPath="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +16,20 @@
     <session id="-1703068351">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cr" value="63" />
+          <entry key="cr" value="64" />
           <entry key="dummy" value="13" />
           <entry key="go" value="2" />
           <entry key="hs" value="1" />
@@ -42,7 +45,7 @@
           <entry key="Haskell" value="1" />
           <entry key="Lua" value="22" />
           <entry key="Markdown" value="151" />
-          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="PLAIN_TEXT" value="80" />
           <entry key="Python" value="2154" />
           <entry key="YAML" value="534" />
         </counts>
@@ -51,6 +54,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cr" value="1" />
+          <entry key="ex" value="1" />
           <entry key="go" value="1" />
           <entry key="hs" value="1" />
           <entry key="jl" value="1" />
@@ -67,7 +71,7 @@
         <counts>
           <entry key="Haskell" value="1" />
           <entry key="Markdown" value="9" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="Python" value="4" />
           <entry key="YAML" value="5" />
         </counts>
@@ -133,20 +137,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/go/hello_world/hello_world.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
+        <entry file="file://$PROJECT_DIR$/elixir/hello_world/hello_world.ex">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -185,7 +198,6 @@
         <option value="$PROJECT_DIR$/problems.yml" />
         <option value="$PROJECT_DIR$/languages.yml" />
         <option value="$PROJECT_DIR$/create_readme.py" />
-        <option value="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" />
         <option value="$PROJECT_DIR$/rust/hello_world/hello_world.rs" />
         <option value="$PROJECT_DIR$/python/hello_world/hello_world.py" />
         <option value="$PROJECT_DIR$/python/bubble_sort/bubble_sort.py" />
@@ -194,6 +206,8 @@
         <option value="$PROJECT_DIR$/julia/hello_world/hello_world.jl" />
         <option value="$PROJECT_DIR$/haskell/hello_world/hello_world.hs" />
         <option value="$PROJECT_DIR$/go/hello_world/hello_world.go" />
+        <option value="$PROJECT_DIR$/elixir/hello_world/hello_world.ex" />
+        <option value="$PROJECT_DIR$/crystal/hello_world/hello_world.cr" />
       </list>
     </option>
   </component>
@@ -223,12 +237,23 @@
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="go" type="462c0819:PsiDirectoryNode" />
+              <item name="crystal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="go" type="462c0819:PsiDirectoryNode" />
+              <item name="crystal" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lang_tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lang_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="elixir" type="462c0819:PsiDirectoryNode" />
               <item name="hello_world" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -274,7 +299,7 @@
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18676628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18890075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -288,7 +313,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33543637" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33543637" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -391,24 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rust/hello_world/hello_world.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#11#12#0" expanded="true" />
-            <element signature="e#43#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/julia/hello_world/hello_world.jl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -424,6 +431,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/go/hello_world/hello_world.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rust/hello_world/hello_world.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#11#12#0" expanded="true" />
+            <element signature="e#43#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elixir/hello_world/hello_world.ex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crystal/hello_world/hello_world.cr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
