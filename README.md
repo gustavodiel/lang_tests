@@ -36,3 +36,7 @@
 * [Hello World](rust/hello_world)
 * [Bubble Sort](rust/bubble_sort)
 
+### [Ruby](ruby/README.md)
+* [Hello World](ruby/hello_world)
+* [Bubble Sort](ruby/bubble_sort)
+
