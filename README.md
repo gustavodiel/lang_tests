@@ -1,5 +1,9 @@
 # Testing some programming languages :D
 
+### [C++](cpp/README.md)
+* [Hello World](cpp/hello_world)
+* [Bubble Sort](cpp/bubble_sort)
+
 ### [Crystal](crystal/README.md)
 * [Hello World](crystal/hello_world)
 * [Bubble Sort](crystal/bubble_sort)

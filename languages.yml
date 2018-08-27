@@ -1,5 +1,11 @@
 languages:
   - {
+    name: "C++",
+    folder: "cpp",
+    link: "https://cplusplus.com/",
+    extension: "cpp"
+  }
+  - {
     name: "Crystal",
     folder: "crystal",
     link: "https://crystal-lang.org/",
