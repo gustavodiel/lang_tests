@@ -1,46 +1,46 @@
 # Testing some programming languages :D
 
 ### [C++](cpp/README.md)
-* [Hello World](cpp/hello_world)
 * [Bubble Sort](cpp/bubble_sort)
+* [Particles](cpp/particles)
 
 ### [Crystal](crystal/README.md)
-* [Hello World](crystal/hello_world)
 * [Bubble Sort](crystal/bubble_sort)
+* [Particles](crystal/particles)
 
 ### [Exixir](elixir/README.md)
-* [Hello World](elixir/hello_world)
 * [Bubble Sort](elixir/bubble_sort)
+* [Particles](elixir/particles)
 
 ### [Go Lang](go/README.md)
-* [Hello World](go/hello_world)
 * [Bubble Sort](go/bubble_sort)
+* [Particles](go/particles)
 
 ### [Haskell](haskell/README.md)
-* [Hello World](haskell/hello_world)
 * [Bubble Sort](haskell/bubble_sort)
+* [Particles](haskell/particles)
 
 ### [Julia](julia/README.md)
-* [Hello World](julia/hello_world)
 * [Bubble Sort](julia/bubble_sort)
+* [Particles](julia/particles)
 
 ### [Lua](lua/README.md)
-* [Hello World](lua/hello_world)
 * [Bubble Sort](lua/bubble_sort)
+* [Particles](lua/particles)
 
 ### [Pony Lang](pony/README.md)
-* [Hello World](pony/hello_world)
 * [Bubble Sort](pony/bubble_sort)
+* [Particles](pony/particles)
 
 ### [Python](python/README.md)
-* [Hello World](python/hello_world)
 * [Bubble Sort](python/bubble_sort)
+* [Particles](python/particles)
 
 ### [Rust](rust/README.md)
-* [Hello World](rust/hello_world)
 * [Bubble Sort](rust/bubble_sort)
+* [Particles](rust/particles)
 
 ### [Ruby](ruby/README.md)
-* [Hello World](ruby/hello_world)
 * [Bubble Sort](ruby/bubble_sort)
+* [Particles](ruby/particles)
 
