@@ -1,0 +1,1 @@
+/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/Particles.dir/particles.cpp.o  -o Particles -lpthread 

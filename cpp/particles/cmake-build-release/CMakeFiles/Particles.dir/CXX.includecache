@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/magrathealabs/Personal/lang_tests/cpp/particles/particles.cpp
+iostream
+-
+thread
+-
+vector
+-
+chrono
+-
+
