@@ -45,8 +45,8 @@ def process_files():
                 file.write('* [{}]({})\n'.format(problem, path))
                 if not os.path.exists(path):
                     os.makedirs(path)
-                with open('{}/{}.{}'.format(path, sanitize(problem), extension), 'w') as prog_file:
-                    prog_file.write('\n'.format(name, link))
+                    with open('{}/{}.{}'.format(path, sanitize(problem), extension), 'w') as prog_file:
+                        prog_file.write('\n'.format(name, link))
             file.write('\n')
 
             with open('{}/README.md'.format(folder_name), 'w') as lang_file:
